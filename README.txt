@@ -1,4 +1,4 @@
-Author: Cole Fellers & Joseph Furgen
+Author: Cole Fellers & Joseph Fergen
 Class: CSCE 4011
 
 -To create inputs compile 'create_input.cpp' and execute ./a.out
